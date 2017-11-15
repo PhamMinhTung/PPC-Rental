@@ -9,7 +9,7 @@
     <div class="row">
         <div><img src="~/Images/main_demo_new.jpg" alt="" width="100%"></div>
         <div class="inner-bg text-center">
-            <p>PPC Rental</p>
+            <p></p>
         </div>
     </div>
     <!--Khung tìm kiếm-->
@@ -29,24 +29,88 @@
                     </div>
                     <div class="col-md-12 content">
                         <div class="col-md-3 sub_ct">
-                            <div class="col-md-12"><input type="text" value="Search"></div>
+                            <div class="col-md-12">
+                                <label class="" for="orderBy"></label>
+                                <select class="form-control">
+                                    <option placeholder="Quận">Quận</option>
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                     
+                                </select>
+                            </div>
                             <hr>
-                            <div class="col-md-12"><input type="text" value="Search"></div>
+                            <div class="col-md-12">
+                                <label class="" for="orderBy"></label>
+                                <select class="form-control">
+                                    <option placeholder="Đường">Đường</option>
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                </select>
+                            </div>
                         </div>
                         <div class="col-md-3 sub_ct">
-                            <div class="col-md-12"><input type="text" value="Search"></div>
+                            <div class="col-md-12">
+                                <label class="" for="orderBy"></label>
+                                <select class="form-control">
+                                    <option placeholder="Phòng tắm">Phòng tắm</option>
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                </select>
+                            </div>
                             <hr>
-                            <div class="col-md-12"><input type="text" value="Search"></div>
+                            <div class="col-md-12">
+                                <label class="" for="orderBy"></label>
+                                <select class="form-control">
+                                    <option placeholder="Bãi đậu xe">Bãi đậu xe</option>
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                </select>
+                            </div>
                         </div>
                         <div class="col-md-3 sub_ct">
-                            <div class="col-md-12"><input type="text" value="Search"></div>
+                            <div class="col-md-12">
+                                <label class="" for="orderBy"></label>
+                                <select class="form-control">
+                                    <option placeholder="Loại dự án">Loại dự án</option>
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                </select>
+                            </div>
                             <hr>
-                            <div class="col-md-12"><input type="text" value="Search"></div>
+                            <div class="col-md-12">
+                                <label class="" for="orderBy"></label>
+                                <select class="form-control">
+                                    <option placeholder="Giá">Giá</option>
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                </select>
+                            </div>
                         </div>
                         <div class="col-md-3 sub_ct">
-                            <div class="col-md-12"><input type="text" value="Search"></div>
+                            <div class="col-md-12">
+
+                                <input type="search" class="form-control" id="Search" placeholder="Search" style="margin-top: 20px">
+                            </div>
                             <hr>
-                            <div class="col-md-12"><input class="btnsearch" type="button" value="Search"></div>
+                            <div class="col-md-12"><input class="btnsearch" type="button" value="Search" style="margin-top: 20px; height:30px"></div>
                         </div>
 
                     </div>
@@ -63,8 +127,7 @@
                 <img src="~/Images/Item/@Item.Avatar" alt="...">
                 <div class="caption">
                     <h3>@Item.PropertyName</h3>
-                    <p>...</p>
-                    <p><a href="~/ViewDetailProject/ViewDetailProject/@Item.ID" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                    <p><a href="~/ViewDetailProject/ViewDetailProject/@Item.ID" class="btn btn-primary" role="button">Xem chi tiết</a> <a href="#" class="btn btn-default" role="button">Liên hệ</a></p>
                 </div>
             </div>
         </div>
