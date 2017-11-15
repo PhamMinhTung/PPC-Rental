@@ -1,0 +1,160 @@
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\ApplicationInsights.config
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\csc.exe
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\System.Collections.Immutable.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\vbc.exe
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe.config
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\PPC Rental.dll.config
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\PPC Rental.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\PPC Rental.pdb
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Antlr3.Runtime.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.Web.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.ApplicationInsights.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.Web.Infrastructure.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Newtonsoft.Json.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.Helpers.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.Mvc.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.Optimization.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.Razor.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.WebPages.Deployment.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.WebPages.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.WebPages.Razor.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\WebGrease.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.Web.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.ApplicationInsights.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.Helpers.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.Mvc.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.Optimization.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.Razor.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.WebPages.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.WebPages.Deployment.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\System.Web.WebPages.Razor.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Antlr3.Runtime.pdb
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\bin\Newtonsoft.Json.xml
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\obj\Debug\PPC Rental.csprojResolveAssemblyReference.cache
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\obj\Debug\PPC Rental.dll
+D:\HK1-Năm 3\PPC Rental\PPC Rental\PPC Rental\obj\Debug\PPC Rental.pdb
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\ApplicationInsights.config
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\csc.exe
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\vbc.exe
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\PPC Rental.dll.config
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\PPC Rental.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\PPC Rental.pdb
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Antlr3.Runtime.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.Web.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.ApplicationInsights.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Helpers.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Mvc.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Optimization.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Razor.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Deployment.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Razor.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\WebGrease.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.Web.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.ApplicationInsights.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Helpers.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Mvc.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Optimization.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Razor.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Deployment.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Razor.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Antlr3.Runtime.pdb
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csprojResolveAssemblyReference.cache
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csproj.CoreCompileInputs.cache
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.pdb
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\ApplicationInsights.config
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\csc.exe
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\System.Collections.Immutable.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\vbc.exe
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe.config
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\PPC Rental.dll.config
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\PPC Rental.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\PPC Rental.pdb
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Antlr3.Runtime.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.Web.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.ApplicationInsights.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.Web.Infrastructure.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Helpers.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Mvc.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Optimization.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Razor.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Deployment.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Razor.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\WebGrease.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.Web.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.ApplicationInsights.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Helpers.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Mvc.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Optimization.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.Razor.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Deployment.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Razor.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Antlr3.Runtime.pdb
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.xml
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csprojResolveAssemblyReference.cache
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.dll
+D:\HK1-Năm 3\Computer Science\PPC Rental\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.pdb

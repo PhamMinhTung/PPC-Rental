@@ -1,0 +1,58 @@
+.me{
+	border: 2px solid black;
+	border-radius: 10px;
+	padding:0;
+    margin-top: 8px;
+}
+.content ul li{	
+	display: inline;	
+}
+.header{
+	padding: 0;
+    background-color: steelblue;
+    height: 100%;	
+}
+.content{
+	padding: 0;
+    height: 100%;
+}
+.btn{
+	width: 174px;
+    background:  #1ad1ff;
+    color: white;
+    border: none;
+    box-shadow: 1px 1px 10px 3px;
+    font-weight: bold;
+    font-family: monospace;
+}
+.header p{
+	margin-left: 40px;
+	font-weight: bold;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.sub_ct{
+	margin: 10px 0	;
+    padding: 0px;
+}
+.sub_ct div:nth-child(1){
+	margin-bottom: 10px;
+}
+.sub_ct div:nth-child(2){
+
+}
+.sub_ct hr{
+	border: 1px solid;
+	margin:10px 0;
+	background-color: gray;
+}
+.sub_ct div input{
+	width: 100%;
+	padding:0;
+	border: 1px solid none;
+	border-radius: 15px;
+}
+.sub_ct div{
+	padding:0;
+}

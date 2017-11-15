@@ -1,0 +1,87 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.inner-bg.text-center p {
+    font-size: 6em;
+    color: rgba(20, 125, 177, 0.59);
+}
+.navbar-inverse {
+    background-color: #ffffff;
+    border-color: #f5f5f5;
+}
+    .inner-bg.text-center {
+    position: absolute;
+    width: 100%;
+    top: 18%;
+    left: 48px;
+}
+
+.top-header {
+    position: relative;
+}
+
+.nav.row-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+a {
+    color: #d9ecf7;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #c6c6a7;
+    font-family: 'Minion W01',Times,"Times New Roman",serif;
+}
+
+.footer-info li,
+.footer-nav li {
+    display: inline-table;
+    padding: 15px;
+}
+
+    .footer-info li a,
+    .footer-nav li a {
+        color: black;
+        display: block;
+        transition: all 0.5s linear;
+    }
+
+        .footer-info li a:hover,
+        .footer-nav li a:hover {
+            opacity: 0.6;
+            text-decoration: none;
+        }
+
+.footer-info,
+.footer-nav {
+    margin-bottom: 0;
+}
