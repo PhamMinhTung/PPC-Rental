@@ -215,3 +215,7 @@ D:\PPC Rental\PPC Rental\PPC-Rental\PPC Rental\bin\EntityFramework.dll
 D:\PPC Rental\PPC Rental\PPC-Rental\PPC Rental\bin\EntityFramework.SqlServer.dll
 D:\PPC Rental\PPC Rental\PPC-Rental\PPC Rental\bin\EntityFramework.xml
 D:\PPC Rental\PPC Rental\PPC-Rental\PPC Rental\bin\EntityFramework.SqlServer.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\EntityFramework.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\EntityFramework.SqlServer.dll
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\EntityFramework.xml
+D:\IT\PPC Rental\PPC-Rental\PPC Rental\bin\EntityFramework.SqlServer.xml
