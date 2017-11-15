@@ -1,44 +1,17 @@
-﻿body {
-    padding-top: 50px;
-    padding-bottom: 20px;
-}
-
-/* Set padding to keep content from hitting the edges */
-.body-content {
-    padding-left: 15px;
-    padding-right: 15px;
-}
-
-/* Override the default bootstrap behavior where horizontal description lists 
-   will truncate terms that are too long to fit in the left column 
-*/
-.dl-horizontal dt {
-    white-space: normal;
-}
-
-/* Set width on the form input elements since they're 100% wide by default */
-input,
-select,
-textarea {
-    max-width: 280px;
-}
-* {
+﻿* {
     padding: 0;
     margin: 0;
 }
 
 .inner-bg.text-center p {
     font-size: 6em;
-    color: rgba(20, 125, 177, 0.59);
+    color: rgb(177, 20, 20);
 }
-.navbar-inverse {
-    background-color: #ffffff;
-    border-color: #f5f5f5;
-}
-    .inner-bg.text-center {
+
+.inner-bg.text-center {
     position: absolute;
     width: 100%;
-    top: 18%;
+    top: 35%;
     left: 48px;
 }
 
@@ -55,6 +28,29 @@ textarea {
 a {
     color: #d9ecf7;
     text-decoration: none;
+}
+
+.input-group {
+    margin-top: 0.8em;
+}
+.inner-bg.text-center p {
+    font-size: 6em;
+    color: rgb(177, 20, 20);
+}
+.inner-bg.text-center {
+    position: absolute;
+    width: 100%;
+    top: -59%;
+    left: 1px;
+}
+    .w3-input {
+    margin-top: 0.6em;
+}
+
+.w3-border {
+    border: 1px solid #ccc !important;
+    border-radius: 0.5em;
+    height: 30px;
 }
 
 .footer {
@@ -85,3 +81,17 @@ a {
 .footer-nav {
     margin-bottom: 0;
 }
+.dropdown-menu > li > a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: rgba(36, 150, 195, 0.74);
+    white-space: unset;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+        color: #8dece9;
+        text-decoration: none;
+        background-color: #428bca;
+    }
