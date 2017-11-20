@@ -119,19 +119,31 @@
         </div>
     </body>
     <!--List Project of Company-->
-    <hr />
-    <h2 style="margin-left: 450px;color:red">"Products of Company"</h2>
-    <div class="row">
-        @foreach (var Item in Model)
-        { 
-        <div class="col-sm-6 col-md-4">
-            <div class="thumbnail">
-                <img src="~/Images/Item/@Item.Avatar" alt="...">
-                <div class="caption">
-                    <h3>@Item.PropertyName</h3>
-                    <p><a href="~/ViewDetailProject/ViewDetailProject/@Item.ID" class="btn btn-primary" role="button">Xem chi tiết</a> <a href="#" class="btn btn-default" role="button">Liên hệ</a></p>
-                </div>
+ <hr />
+    <div>
+        <div style="font-size:22px;border-bottom:3px solid #ff6a00;font-weight:bold;margin-top:5%">MỘT SỐ DỰ ÁN</div>
+        <div style="margin-top:2%">
+            <div class="row">
+                @{int count = 0;}
+                @foreach (var Item in Model)
+                {
+                    <div class="col-sm-6 col-md-4">
+                        <div class="thumbnail" style="margin-top:2%">
+                            <img src="~/Images/Item/@Item.Avatar">
+                            <div class="caption" style="height:200px; margin-top:3%">                            
+                                <h3 class="h3ac" style="color:cornflowerblue">@Item.PropertyName</h3>
+                                <p style="color:cornflowerblue; font-weight:bold">Giá bán:@Item.Price USD</p>
+                                <p style="color:cornflowerblue; font-weight:bold">Địa chỉ: @Item.STREET.StreetName ,@Item.WARD.WardName ,@Item.DISTRICT.DistrictName</p>                       
+                                <p><a href="~/ViewDetailProject/ViewDetailProject/@Item.ID" class="btn btn-primary" role="button">Xem chi tiết</a> <a href="#" class="btn btn-default" role="button">Liên hệ</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    count++;
+                    if (count == 6)
+                    {
+                        break;
+                    }
+                }
             </div>
         </div>
-        }
-    </div>
+</div>
