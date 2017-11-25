@@ -390,3 +390,60 @@ D:\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.xml
 D:\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csprojResolveAssemblyReference.cache
 D:\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.dll
 D:\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.pdb
+D:\test\New folder\PPC-Rental\PPC Rental\bin\ApplicationInsights.config
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\csc.exe
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\System.Collections.Immutable.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\System.Reflection.Metadata.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\vbc.exe
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe
+D:\test\New folder\PPC-Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe.config
+D:\test\New folder\PPC-Rental\PPC Rental\bin\PPC Rental.dll.config
+D:\test\New folder\PPC-Rental\PPC Rental\bin\PPC Rental.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\PPC Rental.pdb
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Antlr3.Runtime.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\EntityFramework.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\EntityFramework.SqlServer.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.Agent.Intercept.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.Web.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.ApplicationInsights.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.Web.Infrastructure.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.Helpers.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.Mvc.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.Optimization.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.Razor.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Deployment.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.WebPages.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Razor.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\WebGrease.dll
+D:\test\New folder\PPC-Rental\PPC Rental\bin\EntityFramework.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\EntityFramework.SqlServer.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.Web.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.ApplicationInsights.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.Helpers.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.Mvc.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.Optimization.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.Razor.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.WebPages.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Deployment.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Razor.xml
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Antlr3.Runtime.pdb
+D:\test\New folder\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.xml
+D:\test\New folder\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csprojResolveAssemblyReference.cache
+D:\test\New folder\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.dll
+D:\test\New folder\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.pdb

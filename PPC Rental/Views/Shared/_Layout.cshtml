@@ -10,7 +10,43 @@
 </head>
 <body>
 
-    <div><img src="~/Images/main_demo_new.jpg" alt="" width="100%"></div>
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+
+                <img src="~/Images/main_demo_new.jpg" style="height:700px; width:100%"/>
+                <div class="carousel-caption">
+
+                </div>
+            </div>
+            <div class="item">
+
+                <img src="~/Images/main.jpg" style="height:700px; width:100%"/>
+                <div class="carousel-caption">
+
+                </div>
+            </div>
+            
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="col-md-4">
             <img src="~/Images/EWmLogoHome.png" style="width: 200px; height: auto;padding-left: 100px;" alt="">
@@ -23,12 +59,11 @@
                     </div>
                     <ul class="nav navbar-nav" style="padding: 1em;">
                         <li>
-                            <a href="#" style="padding-left: 45px;border-top-width: 2em;color : #d9ecf7">Trang Chủ </a>
+                            <a href="~/Home/Index" style="padding-left: 45px;border-top-width: 2em;color : #d9ecf7">Trang Chủ </a>
                         </li>
                         <li>
-                            <a href="#" style="padding-left: 45px;border-top-width: 2em;  color : #d9ecf7">Giới thiệu</a>
+                            <a href="#" style="padding-left: 45px;border-top-width: 2em;  color : #d9ecf7">Đăng dự án</a>
                         </li>
-                        <li><a href="#" style="padding-left: 45px;border-top-width: 2em;  color : #d9ecf7">Đăng dự án</a></li>
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="padding-left: 45px;border-top-width: 2em;  color : #d9ecf7">
                                 Loại dự án
@@ -36,21 +71,23 @@
                             </a>
                             <ul class="dropdown-menu" style="list-style-type: none;">
                                 <li>
-                                    <a href="#">Status</a>
+                                    <a href="#">Appartment</a>
                                 </li>
                                 <li>
-                                    <a href="#">Note</a>
+                                    <a href="#">Villa</a>
                                 </li>
                                 <li>
-                                    <a href="#">Update_at</a>
+                                    <a href="#">Office</a>
                                 </li>
                                 <li>
-                                    <a href="#">Update_at</a>
+                                    <a href="#">House</a>
                                 </li>
                             </ul>
 
                         </li>
-                        <li><a href="#" style="padding-left: 45px;border-top-width: 2em;  color : #d9ecf7">About us</a></li>
+                        <li><a href="#" style="padding-left: 45px;border-top-width: 2em;  color : #d9ecf7">Giới thiệu</a></li>
+                       
+                        <li><a href="#" style="padding-left: 45px;border-top-width: 2em;  color : #d9ecf7">Register</a></li>
                         <li><a href="#" class="signup" data-toggle="modal" data-target="#modal-signup" style="padding-left:45px;  color : #d9ecf7"><span><strong>Sign In</strong></span></a></li>
                     </ul>
                 </div>
@@ -69,7 +106,7 @@
         </div>
         <br />
         <br />
-        <img src="~/Images/bg-footer.png" style="width: 1100px"></img>
+       
         <footer id="colophon" role="contentinfo" style=" background-image url(https//placeinsaigon.com/wp-content/uploads/2017/09/bg-footer.png) " class="  footer_back_repeat_no  ">
             <div id="footer-widget-area" class="row ">
                 <div id="second" class="widget-area col-md-4">
@@ -91,7 +128,7 @@
 
                 <div id="third" class="widget-area col-md-4">
                     <ul class="xoxo">
-                        <li id="social_widget-2" class="widget-container social_sidebar"><h3 class="widget-title-footer">Connect With Us</h3><div class="social_sidebar_internal"><a href="https://www.facebook.com/placeinsaigon" target="_blank"><i class="fa fa-facebook  fa-fw"></i></a><a href="https://www.linkedin.com/company/placeinsaigon?trk=biz-companies-cym" target="_blank"><i class="fa fa-linkedin  fa-fw"></i></a><a href="https://www.youtube.com/channel/UCGWuf9QzQrsrlqcI6pg2q0w" target="_blank"><i class="fa fa-youtube  fa-fw"></i></a><a href="https://www.instagram.com/placeinsaigon/" target="_blank"><i class="fa fa-instagram  fa-fw"></i></a></div></li>
+                        <li id="social_widget-2" class="widget-container social_sidebar"><h3 class="widget-title-footer" style="margin-top:1px">Connect With Us</h3><div class="social_sidebar_internal"><a href="https://www.facebook.com/ppcforrent/" target="_blank"><i class="fa fa-facebook  fa-fw"></i></a><a href="https://www.linkedin.com/ppcforrent/" target="_blank"><i class="fa fa-linkedin  fa-fw"></i></a><a href="https://www.youtube.com/ppcforrent/" target="_blank"><i class="fa fa-youtube  fa-fw"></i></a><a href="https://www.instagram.com/placeinsaigon/" target="_blank"><i class="fa fa-instagram  fa-fw"></i></a></div></li>
 
                     </ul>
                 </div>
@@ -101,6 +138,7 @@
                     </ul>
                 </div><!-- #third .widget-area -->
             </div>
+        <img src="~/Images/bg-footer.png" style="width: 1100px"></img>
         </footer>
     </div>
 

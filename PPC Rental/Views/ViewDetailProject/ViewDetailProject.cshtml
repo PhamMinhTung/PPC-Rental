@@ -3,9 +3,10 @@
 
 @{
     ViewBag.Title = "Detail";
-    Layout = "~/Views/Shared/_Layout.cshtml";
+    Layout = "~/Views/Shared/_ViewDetailLayout.cshtml";
 }
-<h1 class="entry-title entry-prop" style="font-size:30px;border-bottom:3px solid #ff6a00;font-weight:bold;margin-top:5%">@Model.PropertyName</h1>
+
+<h1 class="entry-title entry-prop" style="font-size:30px;border-bottom:3px solid #ff6a00;font-weight:bold;margin-top:15%">@Model.PropertyName</h1>
 
 <hr />
 <dl class="dl-horizontal">
@@ -54,7 +55,7 @@
 
     </h1>
     <div class="notice_area">
-        Biệt thự 500 tỷ của Cường Đô La nằm ngay trung tâm quận 1 với 4 mặt tiền....
+        @Model.Content
     </div>
     <h1 class="entry-title entry-prop" style="font-size:30px;border-bottom:3px solid #ff6a00;font-weight:bold;margin-top:1%"></h1>
     <div class="panel panel-default" style="margin-top:2%">
@@ -69,7 +70,7 @@
         <div id="collapseTwo" class="panel-collapse collapse in" aria-expanded="true" style="">
             <div class="panel-body">
 
-                <div class="listing_detail col-md-4"><strong>Address:</strong> 644 Trường Sa</div><div class="listing_detail col-md-4"><strong>City:</strong> <a href="#" rel="#">Ho Chi Minh City</a></div><div class="listing_detail col-md-4"><strong>Area:</strong> <a href="#" rel="#">Phu Nhuan</a></div><div class="listing_detail col-md-4"><strong>Country:</strong> Vietnam</div>
+                <div class="listing_detail col-md-4"><strong>Address:</strong> @Model.STREET.StreetName</div><div class="col-md-4"><strong>District:</strong> @Model.DISTRICT.DistrictName</div><div class="listing_detail col-md-4"><strong>Area:</strong> @Model.Area</div><div class="listing_detail col-md-4"><strong>Country:</strong> Vietnam</div>
             </div>
         </div>
     </div>
@@ -79,7 +80,7 @@
         </div>
         <div id="collapseOne" class="panel-collapse collapse in">
             <div class="panel-body">
-                <div class="listing_detail col-md-4" id="propertyid_display"><strong>Property ID:@Model.ID </strong></div><div class="listing_detail col-md-4"><strong>Giá: @Model.Price</strong>VND<span class="price_label price_label_before"></span>  <span class="price_label"></span></div><div class="listing_detail col-md-4"><strong>Property Size:</strong> 40 m<sup>2</sup></div><div class="listing_detail col-md-4"><strong>Property Lot Size:</strong> 40 m<sup>2</sup></div><div class="listing_detail col-md-4"><strong>Bedrooms:</strong> 1</div><div class="listing_detail col-md-4"><strong>Bathrooms:</strong> 1</div><div class="listing_detail col-md-4"><strong>Custom ID:</strong> 8735</div><div class="listing_detail col-md-4"><strong>Structure Type:</strong> Brick</div><div class="listing_detail col-md-4"><strong>Floors No:</strong> 1</div>
+                <div class="listing_detail col-md-4" id="propertyid_display"><strong>Property ID:</strong> @Model.ID</div><div class="listing_detail col-md-4"><strong>Giá:</strong> @Model.Price<strong> USD</strong><span class="price_label price_label_before"></span>  <span class="price_label"></span></div><div class="listing_detail col-md-4"><strong>Property Size:</strong>@Model.Area</div><div class="listing_detail col-md-4"><strong>Property Lot Size:</strong> 40 m<sup>2</sup></div><div class="listing_detail col-md-4"><strong>Bedrooms:</strong> @Model.BedRoom</div><div class="listing_detail col-md-4"><strong>Bathrooms:</strong> @Model.BathRoom</div><div class="listing_detail col-md-4"><strong>Packing Palce:</strong> @Model.PackingPlace</div><div class="listing_detail col-md-4"><strong>Project Type:</strong> @Model.PROPERTY_TYPE.CodeType</div>
             </div>
         </div>
     </div>
