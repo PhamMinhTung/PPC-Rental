@@ -447,3 +447,61 @@ D:\test\New folder\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.xml
 D:\test\New folder\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csprojResolveAssemblyReference.cache
 D:\test\New folder\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.dll
 D:\test\New folder\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.pdb
+D:\IT\C#\PPC-Rental\PPC Rental\bin\ApplicationInsights.config
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\csc.exe
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\vbc.exe
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe
+D:\IT\C#\PPC-Rental\PPC Rental\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\C#\PPC-Rental\PPC Rental\bin\PPC Rental.dll.config
+D:\IT\C#\PPC-Rental\PPC Rental\bin\PPC Rental.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\PPC Rental.pdb
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Antlr3.Runtime.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\EntityFramework.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\EntityFramework.SqlServer.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.Web.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.ApplicationInsights.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.Helpers.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.Mvc.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.Optimization.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.Razor.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Deployment.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.WebPages.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Razor.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\WebGrease.dll
+D:\IT\C#\PPC-Rental\PPC Rental\bin\EntityFramework.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\EntityFramework.SqlServer.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.DependencyCollector.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.Web.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.AI.WindowsServer.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.ApplicationInsights.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.Helpers.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.Mvc.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.Optimization.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.Razor.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.WebPages.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Deployment.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Razor.xml
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Antlr3.Runtime.pdb
+D:\IT\C#\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.xml
+D:\IT\C#\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csprojResolveAssemblyReference.cache
+D:\IT\C#\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csproj.CoreCompileInputs.cache
+D:\IT\C#\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.dll
+D:\IT\C#\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.pdb

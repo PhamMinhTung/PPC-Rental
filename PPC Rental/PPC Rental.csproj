@@ -334,10 +334,12 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\ViewDetailProject\ViewDetailProject.cshtml" />
     <Content Include="Views\Shared\_ViewDetailLayout.cshtml" />
+    <Content Include="Views\PostProject\PostPr.cshtml" />
+    <Content Include="Views\PostProject\postPJ.cshtml" />
+    <Content Include="Views\PostProject\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Shared\PostProject\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

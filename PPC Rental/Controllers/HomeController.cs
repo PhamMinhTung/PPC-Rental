@@ -12,8 +12,8 @@ namespace PPC_Rental.Controllers
         K21T1_Team4Entities db = new K21T1_Team4Entities();
         public ActionResult Index()
         {
-            var model = db.PROPERTies.ToList();
-            return View(model);
+            var model1 = db.PROPERTies.ToList();
+            return View(model1);
         }
 
         public ActionResult About()
