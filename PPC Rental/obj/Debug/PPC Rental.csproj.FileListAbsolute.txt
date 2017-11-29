@@ -501,7 +501,7 @@ D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Deployment.xml
 D:\IT\C#\PPC-Rental\PPC Rental\bin\System.Web.WebPages.Razor.xml
 D:\IT\C#\PPC-Rental\PPC Rental\bin\Antlr3.Runtime.pdb
 D:\IT\C#\PPC-Rental\PPC Rental\bin\Newtonsoft.Json.xml
-D:\IT\C#\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csprojResolveAssemblyReference.cache
 D:\IT\C#\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csproj.CoreCompileInputs.cache
 D:\IT\C#\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.dll
 D:\IT\C#\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.pdb
+D:\IT\C#\PPC-Rental\PPC Rental\obj\Debug\PPC Rental.csprojResolveAssemblyReference.cache

@@ -18,8 +18,17 @@ namespace PPC_Rental.Controllers
             return View();
         }
         [HttpPost]
-        public ActionResult Create(PROPERTY property, HttpPostedFileBase Image)
+        public ActionResult Create(PROPERTY property, HttpPostedFileBase Avatar, HttpPostedFileBase Image)
         {
+            string avatar = "";
+            if (Avatar.ContentLength > 0)
+            {
+
+                var filenameav = Path.GetFileName(Avatar.FileName);
+                var path = Path.Combine(Server.MapPath("~/Images"), filenameav);
+                Avatar.SaveAs(path);
+                avatar = filenameav;
+            }
             string image = "";
             if (Image.ContentLength > 0)
             {
@@ -35,19 +44,19 @@ namespace PPC_Rental.Controllers
             post.BathRoom = property.BathRoom;
             post.BedRoom = property.BedRoom;
             post.Content = property.Content;
-            post.Created_at = property.Created_at;
-            post.Create_post = property.Create_post;
-            post.DISTRICT = property.DISTRICT;
+            post.Create_post = DateTime.Now;
             post.Images = property.Images;
             post.PackingPlace = property.PackingPlace;
             post.Price = property.Price;
             post.PROJECT_STATUS = property.PROJECT_STATUS;
             post.PROPERTY_FEATURE = property.PROPERTY_FEATURE;
             post.UnitPrice = property.UnitPrice;
-
+            post.Ward_ID = property.Ward_ID;
+            post.District_ID = property.District_ID;
+            post.PropertyType_ID = property.PropertyType_ID;
             db.PROPERTies.Add(post);
             db.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("Index", "Home");
         }
     }
 }

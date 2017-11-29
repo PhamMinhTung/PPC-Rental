@@ -249,6 +249,8 @@
     <Content Include="Images\Logo_Place.png" />
     <Content Include="Images\main.jpg" />
     <Content Include="Images\main_demo_new.jpg" />
+    <Content Include="Images\main_demo_newbest1.jpg" />
+    <Content Include="Images\main_demo_newbest8.jpg" />
     <Content Include="Models\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model1.edmx</DependentUpon>
@@ -334,8 +336,6 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\ViewDetailProject\ViewDetailProject.cshtml" />
     <Content Include="Views\Shared\_ViewDetailLayout.cshtml" />
-    <Content Include="Views\PostProject\PostPr.cshtml" />
-    <Content Include="Views\PostProject\postPJ.cshtml" />
     <Content Include="Views\PostProject\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
