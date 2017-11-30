@@ -159,6 +159,8 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+    <Compile Include="Areas\Admin\Controllers\PropretyAdminController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PostProjectController.cs" />
     <Compile Include="Controllers\ViewDetailProjectController.cs" />
@@ -215,6 +217,7 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\dataTables.bootstrap4.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\Icon\css\font-awesome.css" />
@@ -223,7 +226,10 @@
     <Content Include="Content\Icon\jquery.min.js" />
     <Content Include="Content\jquery.min.js" />
     <Content Include="Content\myStyle.css" />
+    <Content Include="Content\sb-admin.css" />
+    <Content Include="Content\sb-admin.min.css" />
     <Content Include="favicon.ico" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -251,6 +257,17 @@
     <Content Include="Images\main_demo_new.jpg" />
     <Content Include="Images\main_demo_newbest1.jpg" />
     <Content Include="Images\main_demo_newbest8.jpg" />
+    <Content Include="Image\EWMLogoHome.png" />
+    <Content Include="Image\IMG_1592-stamp.jpg" />
+    <Content Include="Image\PIS3280-Edit-stamp.jpg" />
+    <Content Include="Image\PIS3611.jpg" />
+    <Content Include="Image\PIS_4622-Edit.jpg" />
+    <Content Include="Image\PIS_6656-Edit-stamp.jpg" />
+    <Content Include="Image\PIS_6706-Edit-stamp.jpg" />
+    <Content Include="Image\PIS_7319-Edit-stamp.jpg" />
+    <Content Include="Image\PIS_7389-Edit-stamp.jpg" />
+    <Content Include="Image\PIS_7432-Edit-stamp.jpg" />
+    <Content Include="Image\sunshine-benthanh-cityhome-10-stamp.jpg" />
     <Content Include="Models\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model1.edmx</DependentUpon>
@@ -263,6 +280,7 @@
     </Content>
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
@@ -308,10 +326,25 @@
     <Content Include="Models\Model1.edmx.diagram">
       <DependentUpon>Model1.edmx</DependentUpon>
     </Content>
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="Areas\Admin\Views\web.config" />
+    <Content Include="Areas\Admin\Views\PropretyAdmin\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\PropretyAdmin\Edit.cshtml" />
+    <Content Include="Areas\Admin\Views\PropretyAdmin\Details.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\Chart.bundle.js" />
+    <Content Include="Scripts\Chart.min.js" />
+    <Content Include="Scripts\dataTables.bootstrap4.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.dataTables.js" />
+    <Content Include="Scripts\jquery.easing.min.js" />
+    <Content Include="Scripts\jquery.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
@@ -319,6 +352,12 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\sb-admin-charts.js" />
+    <Content Include="Scripts\sb-admin-charts.min.js" />
+    <Content Include="Scripts\sb-admin-datatables.js" />
+    <Content Include="Scripts\sb-admin-datatables.min.js" />
+    <Content Include="Scripts\sb-admin.js" />
+    <Content Include="Scripts\sb-admin.min.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -337,9 +376,11 @@
     <Content Include="Views\ViewDetailProject\ViewDetailProject.cshtml" />
     <Content Include="Views\Shared\_ViewDetailLayout.cshtml" />
     <Content Include="Views\PostProject\Create.cshtml" />
+    <Content Include="Areas\Admin\Views\Shared\_AdminLayout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\Admin\Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
